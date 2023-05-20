@@ -4,7 +4,7 @@
 
 ## 🖥️ Projeto
 
-Esse é projeto web responsivo de uma capsula do tempo para exibir memórias em linha do tempo
+Esse é um projeto web responsivo de uma capsula do tempo para exibir memórias em linha do tempo
 
 ## 🚀 Tecnologias
 
